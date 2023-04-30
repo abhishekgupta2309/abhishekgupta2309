@@ -3,9 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekgupta2309&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekgupta2309" /> </p>
-- 👦 A Passionate, Self-taught Software Engineer <br>
-- 🌱 I’m currently working on Simple Java based Projects <br>
-- 🥇 Competitve Programming 
+• 👦 A Passionate, Self-taught Software Engineer <br>
+• 🔭 I’m currently working on Simple Java based Projects <br>
+• 🥇 Competitve Programming <br>
+• 🌱 I’m currently learning Spring and Spring Boot Framwork
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
