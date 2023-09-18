@@ -12,6 +12,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishekgupta2309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekgupta2309/" height="30" width="40" /></a>
 <a href="https://instagram.com/theabhishekgupta_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theabhishekgupta_09" height="30" width="40" /></a>
-<a href="abhishekguptaa8371@gmail.com" target="blank"><img align="center" src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="abhishekguptaa8371@gmail.com" height="30" width="40" /></a>
+<a href="mailto:abhishekguptaa8371@gmail.com" target="blank"><img align="center" src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="abhishekguptaa8371@gmail.com" height="30" width="40" /></a>
 </p>
 
